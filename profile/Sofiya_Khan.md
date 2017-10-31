@@ -10,7 +10,7 @@ University of Madras
 
 ### Interests
 
-Music and literature
+Music, Social Service and literature
 
 ### Development
 
