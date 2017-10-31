@@ -227,3 +227,8 @@
 - Place: Gainesville, Florida
 - Bio: Undergraduate Student at the University of Florida
 - Github: [FrankGarcia305](https://github.com/FrankGarcia305)
+
+#### Name: [Sofiya Khan](https://github.com/ksofiya)
+- Place: Mumbai
+- Bio: Undergraduate Student at the University of Madras
+- Github: [Sofiya Khan](https://github.com/ksofiya)
