@@ -12,6 +12,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
 - GitHub: [akshatgit](https://github.com/akshatgit)
+#### Name: [Aditya Ketkar](https://github.com/ketkar-aditya98)
+- Place: Goa, India
+- Bio: Student
+- GitHub: [Aditya Ketkar](https://github.com/akshatgit)
 
 #### Name: [Ifunanya Ukachukwu](https://github.com/iyfe)
 - Place: New Haven, CT, USA
